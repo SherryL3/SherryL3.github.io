@@ -1,0 +1,81 @@
+/*
+	for tablet
+ */
+@media only screen and (max-width: 960px) and (min-width: 600px) {
+	
+
+
+
+
+/*Shrinking for mobile*/
+.waves {
+	height:40px;
+	min-height:40px;
+}
+.content {
+	height:30vh;
+}
+
+/* Quick Connection */	
+
+.QCN-column-container {
+	display: block;
+}
+.QCN-left-column {
+	width: 100%;
+	padding-bottom: 50px;
+	/* padding-left: 5%; */
+	/* padding-right: 5%; */
+}
+.QCN-right-column {
+	width: 100%;
+	/* padding-left: 5%; */
+}
+
+
+
+.QCN_page-container{
+padding: 100px 40px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	.footer-info-block {
+		width: 248px;
+		height: 572px;
+	}
+	.footer-info-block > :nth-child(1) {
+		width: 248px;
+		height: 148px;
+	}
+}
