@@ -389,7 +389,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	color: #555;
 }
 #footer a:hover {
-	color: #000;
+	color: rgb(224, 110, 65);
 }
 .email{
 	color: rgb(224, 110, 65);
